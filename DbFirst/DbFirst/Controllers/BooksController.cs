@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using DbFirst.DTO;
+using DbFirst.Entities;
 using DbFirst.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
